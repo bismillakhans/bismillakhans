@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bismillakhans/bismillakhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bismillakhans&show_icons=true&hide=contribs,issues" />
 
-Here are some ideas to get you started:
+<!-- 👋 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/bismillakhan-s-471171143/">LinkedIn</a> ||
+  <a href="https://twitter.com/bismillakhans">Twitter</a> ||
+  <a href="mailto: bismillakhans@gmail.com">Email</a> 
+</p>
+
+
+
+- 🔭 I’m currently working on <a href="https://www.auggen21.in/">Auggen21</a> ,Kariavattom
+
+
